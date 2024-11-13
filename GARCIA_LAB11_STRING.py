@@ -1,3 +1,5 @@
+#GARCIA_LAB11_STRING
+
 word_list = []
 print("Enter 10 words (press Enter after each word):")
 
