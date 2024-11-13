@@ -1,8 +1,7 @@
-
+#GARCIA_LAB11_GRADES
 
 grades = []
 student_count = 0
-
 
 while student_count < 5:
         if student_count == 0:
@@ -40,7 +39,3 @@ print("Grades: ", grades)
 print(f"Average Grade: ", average_grade)
 print(f"Passing Grade: ", passing_grades)
 print(f"Passing Percentage: ", passing_percentage, "%")
-
-
-    
-    
